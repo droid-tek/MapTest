@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Hundezone Beta</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">WEITER</string>
+    <string name="skip">ÜBERSPRINGEN</string>
+    <string name="start">FERTIG</string>
+
+    <string name="slide_1_title">Hundezone</string>
+    <string name="slide_1_desc">Finde jede Hundezone in Wien</string>
+
+    <string name="slide_2_title">Giftköder</string>
+    <string name="slide_2_desc">Bald kannst du Giftköder melden und finden</string>
+
+    <string name="slide_3_title">Beta</string>
+    <string name="slide_3_desc">Das ist eine Beta, hilf mit die App zu verbessern</string>
+
+    <string name="slide_4_title">Wer das liest ist doof</string>
+    <string name="slide_4_desc">Aber Trixi ist soo süss! ;)</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="buy_string">Buy String</string>
+    <string name="click_string">Click String</string>
+
+    <string name="my_title">Hundezone Beta</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="banner_home_footer">ca-app-pub-1950547672168290/</string>
+    <string name="interstitial_full_screen">ca-app-pub-0664570763252260/1769900428</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_add_favourite">Zu Favoriten hinzufügen</string>
+    <string name="action_play_next">Bewerten</string>
+    <string name="backdrop_title">HUNDEZONE</string>
+    <string name="backdrop_subtitle">Jede Hundezone in Wien</string>
+
+    <string name="notruf">Notruf</string>
+    <string name="karte">Karte</string>
+    <string name="liste">Liste</string>
+</resources>

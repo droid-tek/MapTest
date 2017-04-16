@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626284035649",
+    "firebase_url": "https://maptest-487af.firebaseio.com",
+    "project_id": "maptest-487af",
+    "storage_bucket": "maptest-487af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626284035649:android:6d994e854f7e3bdf",
+        "android_client_info": {
+          "package_name": "com.example.christian.maptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626284035649-jhn0c45p4tfl2tu06rpsll7ahapbs446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOZ5WfkH77Ri5tIxMbZEou53UAw9DKZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
